@@ -1,0 +1,14 @@
+[
+  {
+    "commit": "demo1",
+    "status": "success",
+    "shot": "layup",
+    "message": "fix: openssl CVE"
+  },
+  {
+    "commit": "demo2",
+    "status": "fail",
+    "shot": "jumper",
+    "message": "feature: nginx role"
+  }
+]
